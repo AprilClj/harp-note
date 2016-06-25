@@ -49,9 +49,13 @@ eg:直接运行 harp init myproject
 生成目录如下
 
 myproject/
+
   |- _layout.jade
+  
   |- 404.jade
+  
   |- index.jade
+  
   +- main.less
 
 默认的应用使用jade模板来映射HTML,你也可以使用更为常见的EJS.
